@@ -1,3 +1,8 @@
+# Final Output
+
+![redux-counter](https://github.com/user-attachments/assets/50b3c8fe-6e0e-48ee-9374-5ea013505105)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
